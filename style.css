@@ -71,7 +71,16 @@ h2 {
   font-size: 14px;
   padding: 10px 20px;
 }
-
+.features-icon {
+  stroke: var(--clr-green-light);
+  height: 30px;
+  width: 30px;
+}
+.chair-icon {
+  stroke: var(--clr-green-light);
+  height: 24px;
+  width: 24px;
+}
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
