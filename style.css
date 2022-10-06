@@ -57,6 +57,7 @@ h2 {
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
+  border-radius: 50px;
 }
 .btn:hover,
 .btn:active {
@@ -71,16 +72,7 @@ h2 {
   font-size: 14px;
   padding: 10px 20px;
 }
-.features-icon {
-  stroke: var(--clr-green-light);
-  height: 30px;
-  width: 30px;
-}
-.chair-icon {
-  stroke: var(--clr-green-light);
-  height: 24px;
-  width: 24px;
-}
+
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
@@ -116,6 +108,9 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: var(--clr-green-light);
+  height: 30px;
+  width: 30px;
 }
 
 .features-title {
@@ -133,6 +128,7 @@ img {
   background-color: var(--clr-green-dark);
   color: #fff;
   padding: 24px;
+  border-radius: 8px;
 }
 
 .testimonial-box {
@@ -155,9 +151,15 @@ img {
 /* CHAIRS */
 .chair {
   box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 8px;
 }
 .chair-box {
   padding: 24px;
+}
+.chair-icon {
+  stroke: var(--clr-green-light);
+  height: 24px;
+  width: 24px;
 }
 
 h3 {
@@ -179,9 +181,6 @@ h3 {
 
 .chair-details li:last-child {
   margin-bottom: 0;
-}
-
-.chair-icon {
 }
 
 .chair-price {
