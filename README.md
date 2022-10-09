@@ -1,14 +1,15 @@
 # Lisbon Chair Shop
 
-A brief description of what this project does and who it's for<br/>
-<a href="https://g-101-lisbon-chair-shop.netlify.app/">demo link</a>
+Uma landing page fictícia de uma loja que vende cadeiras e sofás<br/>
+<a href="https://g-101-lisbon-chair-shop.netlify.app/">Acesse o link da demo</a>
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./1.png)
 
 ## O que eu aprendi
 
-Web Design
-
-### Em progresso
+- Tipografia
+- Cores
+- Whitespace
+- Sombras
